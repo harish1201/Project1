@@ -1,1 +1,11 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+changed by LOVI
+=======
 changed by santosh
+>>>>>>> refs/remotes/origin/master
+=======
+>>>>>>> refs/remotes/origin/master
+=======
+>>>>>>> origin/Lovi
